@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAp2</string>
+    <string-array name="Male">
+        <item>Mr</item>
+        <item>Ms</item>
+    </string-array>
+</resources>
