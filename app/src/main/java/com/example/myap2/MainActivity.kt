@@ -19,7 +19,6 @@ class MainActivity : AppCompatActivity() {
         val textView6 = findViewById<TextView>(R.id.tv_6)
         val textView7 = findViewById<TextView>(R.id.tv_7)
 
-        
         button.setOnClickListener({
             textView6.text = editText1.text.toString()
             textView7.text = editText2.text.toString()
