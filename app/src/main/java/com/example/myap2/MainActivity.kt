@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, "${editText3.text}", Toast.LENGTH_LONG).show()
 
         })
-
+//
+        //2121
     }
 }
